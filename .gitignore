@@ -1,0 +1,12 @@
+# Local deployment config - ship this separately, never commit it.
+.env
+
+# Compiled binaries.
+/prerender
+/prerender2
+/prerender-linux-amd64
+/prerender-*
+
+# macOS
+.DS_Store
+**/.DS_Store
